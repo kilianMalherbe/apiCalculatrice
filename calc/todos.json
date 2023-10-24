@@ -1,0 +1,19 @@
+{
+    "tasks":[
+        {
+            "order": 1,
+            "name": "Acheter des pastèques",
+            "done": false
+        },
+        {
+            "order": 2,
+            "name": "Acheter des kiwi",
+            "done": true
+        },
+        {
+            "order": 13,
+            "name": "Acheter des patates",
+            "done": true
+        }
+    ]
+}
